@@ -1,7 +1,7 @@
 ---
 title: Load test failure!
 assignees:
-  - "bobokeefe"
+  - {bob-okeefe}
 labels:
   - bug
 ---
